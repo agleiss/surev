@@ -1,4 +1,4 @@
-# predictive accuracy and explained variation in Cox regression
+# Predictive accuracy and explained variation in Cox regression
 
 The measures of predictive accuracy and explained variation in Cox regression 
 presented in Schemper and Henderson 2000 and also dealt with in Schemper 2003 
